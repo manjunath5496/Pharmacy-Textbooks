@@ -1,64 +1,66 @@
 <ul>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(1).pdf" style="text-decoration:none;">Fine Particles in Medicine and Pharmacy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(2).pdf" style="text-decoration:none;">Comprehensive Pharmacy Review for NAPLEX</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(2).pdf" style="text-decoration:none;">Text Book of Immunology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(3).pdf" style="text-decoration:none;">Pharmaceutical Calculations</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(3).pdf" style="text-decoration:none;">Color Atlas of Physiology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(4).pdf" style="text-decoration:none;">Basic and Clinical Pharmacology </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(4).pdf" style="text-decoration:none;">Medicinal Chemistry: A Molecular and Biochemical Approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(5).pdf" style="text-decoration:none;">An Appleton and Lange Review of Pharmacy </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(5).pdf" style="text-decoration:none;">An Introduction to Clinical Emergency Medicine </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(6).pdf" style="text-decoration:none;">Galenic Pharmacy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(6).pdf" style="text-decoration:none;">2016 Current Medical Diagnosis and Treatment</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(7).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(7).pdf" style="text-decoration:none;">Color Atlas of Neurology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(8).pdf" style="text-decoration:none;">Davis's Drug Guide for Nurses  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(8).pdf" style="text-decoration:none;">Color Atlas of Genetics  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(9).pdf" style="text-decoration:none;"> The Pharmacy Technician</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(9).pdf" style="text-decoration:none;"> Ganong's Review of Medical Physiology</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(10).pdf" style="text-decoration:none;">The Gale Encyclopedia of Medicine</a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(11).pdf" style="text-decoration:none;">Color Atlas of Biochemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(10).pdf" style="text-decoration:none;">Henke's Med-Math: Dosage Calculation, Preparation and Administration</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(12).pdf" style="text-decoration:none;">100 CASES in Clinical Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(13).pdf" style="text-decoration:none;">Dewhurst's Textbook of Obstetrics and Gynaecology </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(14).pdf" style="text-decoration:none;">Simpson's Forensic Medicine </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(15).pdf" style="text-decoration:none;">Cognitive Psychology   </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(16).pdf" style="text-decoration:none;">Current Diagnosis and Treatment Pediatrics  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(11).pdf" style="text-decoration:none;">BNF 70 (British National Formulary September 2015-March 2016) </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(17).pdf" style="text-decoration:none;"> Essentials of Medical Pharmacology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(12).pdf" style="text-decoration:none;">Essentials of Pharmaceutics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(18).pdf" style="text-decoration:none;">The Encyclopedia of Natural Medicine </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(13).pdf" style="text-decoration:none;">A History of Pharmacy Administration </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(20).pdf" style="text-decoration:none;">The Gale Encyclopedia of Alternative Medicine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(14).pdf" style="text-decoration:none;">Clinical Pharmacokinetics Pharmacy Handbook </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(21).pdf" style="text-decoration:none;">Color Atlas of Pharmacology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(15).pdf" style="text-decoration:none;">Fundamentals of Nuclear Pharmacy   </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(22).pdf" style="text-decoration:none;">Introduction to Veterinary and Comparative Forensic Medicine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(16).pdf" style="text-decoration:none;">Physical Pharmacy  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(23).pdf" style="text-decoration:none;">Medical-Surgical Nursing: Assessment and Management of Clinical Problems </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(24).pdf" style="text-decoration:none;">Emergency Medicine: PreTest Self-Assessment and Review </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(17).pdf" style="text-decoration:none;"> Managing Pharmacy Practice: Principles, Strategies, and Systems </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(25).pdf" style="text-decoration:none;">Encyclopedia of Human Body Systems </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(18).pdf" style="text-decoration:none;">Pharmacotherapy Handbook </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(26).pdf" style="text-decoration:none;">Handbook of Medicinal Herbs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(19).pdf" style="text-decoration:none;">Cannabis Pharmacy: The Practical Guide to Medical Marijuana</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(27).pdf" style="text-decoration:none;">Textbook of Forensic Medicine and Toxicology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(20).pdf" style="text-decoration:none;">An Introduction to Medicinal Chemistry</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(28).pdf" style="text-decoration:none;">Principles and Practice of Pharmaceutical Medicine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(21).pdf" style="text-decoration:none;">African Journal of Pharmacy and Pharmacology (Volume 7 Number 22 15 June, 2013) </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(29).pdf" style="text-decoration:none;">Clinical Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(22).pdf" style="text-decoration:none;">Practical Pharmacy for Pharmacists and Physicians</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(30).pdf" style="text-decoration:none;">Lippincott's Review for Medical-Surgical Nursing Certification</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(23).pdf" style="text-decoration:none;">Pharmacy: What It Is and How It Works </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(24).pdf" style="text-decoration:none;">Pharmaceutics – Dosage Form and Design </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(25).pdf" style="text-decoration:none;">Pharmacy student survival guide</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(26).pdf" style="text-decoration:none;">Drug Formulary</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(27).pdf" style="text-decoration:none;">Homeopathic Pharmacy: Theory and Practice</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(28).pdf" style="text-decoration:none;">Pharmacy on the Isle of Wight: A Guide to Pharmacy and Pharmacy Services</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(29).pdf" style="text-decoration:none;">Pharmacy Manual</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(30).pdf" style="text-decoration:none;">Managing Symptoms in the Pharmacy</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(31).pdf" style="text-decoration:none;">Pediatric Nutrition in Practice  </a></b></li>
 
