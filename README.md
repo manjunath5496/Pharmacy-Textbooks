@@ -92,6 +92,22 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(49).rar" style="text-decoration:none;">Handbook of Pharmaceutical Excipients </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(50).pdf" style="text-decoration:none;">Clinical Pharmacy and Therapeutics</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(51).pdf" style="text-decoration:none;">Textbook of Forensic Pharmacy</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(52).pdf" style="text-decoration:none;">Lecture Notes in Pharmacy Practice</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(53).pdf" style="text-decoration:none;">Pharmaceutical Analysis: A Textbook for Pharmacy Students and Pharmaceutical Chemists </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(54).pdf" style="text-decoration:none;">Pharmacy Management: Essentials for All Practice Settings </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(55).pdf" style="text-decoration:none;">LWW's Foundations in Pharmacology for Pharmacy Technicians </a></b></li>
+
+
 
 
 
