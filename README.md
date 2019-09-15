@@ -108,7 +108,17 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(55).pdf" style="text-decoration:none;">LWW's Foundations in Pharmacology for Pharmacy Technicians </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(34).pdf" style="text-decoration:none;">There Are No Incurable Diseases: Dr. Richard Schulze's 30-Day Intensive Cleansing and Detoxification Program</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(38).pdf" style="text-decoration:none;">Essentials of Human Physiology for Pharmacy </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(39).pdf" style="text-decoration:none;">Oxford Handbook of Clinical Pharmacy </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(41).pdf" style="text-decoration:none;">Symptoms in the Pharmacy: A Guide to the Management of Common Illnesses </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(43).pdf" style="text-decoration:none;">Fundamentals of Pharmacognosy and Phytotherapy </a></b></li>
 
 
 </ul>
