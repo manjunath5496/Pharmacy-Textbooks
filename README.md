@@ -7,7 +7,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(4).pdf" style="text-decoration:none;">Basic and Clinical Pharmacology </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(5).pdf" style="text-decoration:none;">An Appleton and Lange Review of Pharmacy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(5).pdf" style="text-decoration:none;">Appleton and Lange Review of Pharmacy </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(6).pdf" style="text-decoration:none;">Galenic Pharmacy</a></b></li>
 
