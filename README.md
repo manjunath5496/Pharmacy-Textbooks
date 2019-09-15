@@ -120,5 +120,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(43).pdf" style="text-decoration:none;">Fundamentals of Pharmacognosy and Phytotherapy </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(46).pdf" style="text-decoration:none;">Application of Computational Techniques in Pharmacy and Medicine </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(47).pdf" style="text-decoration:none;">Health through God's Pharmacy: Advice and Proven Cures with Medicinal Herbs </a></b></li>
+
+
 
 </ul>
