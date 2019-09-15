@@ -124,6 +124,23 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(47).pdf" style="text-decoration:none;">Health through God's Pharmacy: Advice and Proven Cures with Medicinal Herbs </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(56).pdf" style="text-decoration:none;">Essentials of Pathophysiology for Pharmacy</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(57).pdf" style="text-decoration:none;">Foundation in Pharmacy Practice</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(58).pdf" style="text-decoration:none;">Immunology for Pharmacy Students </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(59).pdf" style="text-decoration:none;">Laboratory Procedures for Pharmacy Technicians </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(60).pdf" style="text-decoration:none;">Medicinal Cookery: How you can benefit from nature's edible pharmacy </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Textbooks/blob/master/pcn(61).pdf" style="text-decoration:none;">The Pharmacy Practice Handbook of Medication Facts</a></b></li>
+
+
+
+
+
+
 
 
 </ul>
